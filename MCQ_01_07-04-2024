@@ -1,0 +1,32 @@
+1) Which of these constructors is used to create an empty String object?
+a) String()
+b) String(void)
+c) String(0)
+d) None of the mentioned   
+option : a
+2)  Which of these keywords is used to refer to member of base class from a subclass?
+a) upper
+b) super
+c) this
+d) none of the mentioned 
+option : b
+3)Which of these method of String class can be used to test to strings for equality?
+a) isequal()
+b) isequals()
+c) equal()
+d) equals()
+option :d 
+4) Which of the following statements are incorrect?
+a) String is a class
+b) Strings in java are mutable
+c) Every string is an object of class String
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered
+
+option : b
+5) Which of the following statements are incorrect?
+a) String is a class
+b) Strings in java are mutable
+c) Every string is an object of class String
+d) Java defines a peer class of String, called StringBuffer, which allows string to be altered
+
+option : b
